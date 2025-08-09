@@ -74,10 +74,19 @@
         gap: 0.5rem;
         text-align: center;
     }
+    profile_pic{
+        margin-top: 0px;
+    }
     .section__pic-container{
-        width: auto;
+       
+        /* width: auto;
         height: 46vw;
         justify-content: center;
+        margin-top: 0px; */
+    }
+    .section__text{
+       height: auto;
+       padding-top: 55px;
     }
     .section__text__p2{
         font-size: 1.25rem;
